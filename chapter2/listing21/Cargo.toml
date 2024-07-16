@@ -1,0 +1,7 @@
+[package]
+name = "listing21"
+version = "0.1.0"
+edition = "2021"
+default-run = "listing21"
+
+[dependencies]
